@@ -58,8 +58,10 @@ root.mainloop()
 - **.update_code()**: update the code syntax colors
 - **.clear_code()**: delete all the code from the box
 <br>
-  <a href="https://github-readme-tech-stack.vercel.app">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&align=left&titleAlign=left&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=lua%2Clua%2Cauto%3Bpython%2Cpython%2Cauto%3BC%2CC+Lang%2Cauto%3B&line2=OpenGL%2COpenGL%2Cffffff%3Bhtml%2Chtml%2Cauto%3B" alt="GitHub Readme Tech Stack" />
-  </a>
+<a href="https://github-readme-tech-stack.vercel.app">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages&lineCount=4&width=520&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=python%2Cpython%2Cfff800%3BCplusplus%2C%2B%2B%2C7bc9b1%3Bcplusplus%2Csharp%2C6c3bb2%3BCplusplus%2C+%2C4a82cc%3Bjavascript%2Cjavascript%2Cf0fc0d%3B&line2=lua%2Clua%2C5d72e6%3BRust%2Crust%2Ce62323%3Bperl%2Cperl%2C92d5d3%3Bkotlin%2Ckotlin%2C6dfa21%3Bruby%2Cruby%2Cff0000%3B&line3=swift%2Cswift%2Cfe811b%3Bphp%2Cphp%2C3749b3%3Breact%2Creact%2Cd3ff00%3Bjson%2Cjson%2Cffe300%3Bgo%2Cgo%2C11ffdc%3B&line4=yaml%2Cyaml%2C6dc2af%3Bxml%2Cxml%2C63f030%3Bcss%2Ccss%2C1ff9f2%3Bhtml%2Chtml%2C2bc5b4%3BTypescript%2CTypescript%2C42b1c2%3BJAVA%2Cjava%2Ceffc00%3B" alt="Languages" />
+</a>
+
+
 
 
