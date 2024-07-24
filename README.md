@@ -17,6 +17,8 @@ A code editor widget for customtkinter.
 ### [<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Akascape/CTkCodeBox?&color=white&label=Download%20Source%20Code&logo=Python&logoColor=yellow&style=for-the-badge"  width="400">](https://github.com/Akascape/CTkCodeBox/archive/refs/heads/main.zip)
 
 **Download the source code, paste the `CTkCodeBox` folder in the directory where your program is present.**
+<br> Requirements: Pygments and TkLineNums
+
 ## Simple Usage
 ```python
 import customtkinter
