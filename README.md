@@ -37,9 +37,9 @@ root.mainloop()
 |-----------| ------------|
 | width |  change the default width of the widget |
 | height | change the default height of the widget |
-| **fg_color** | change the fg_color of the widget|
-| language | set the language lexer for the codebox |
-| theme | change the overall color theme for the code syntax |
+| fg_color | change the fg_color of the widget|
+| **language** | set the language lexer for the codebox |
+| **theme** | change the overall color theme for the code syntax |
 | line_numbering | boolean, enable or disable the line numbering |
 | numbering_color | change text color of the line numbering |
 | menu | boolean, enable or disable the right click popup menu |
