@@ -41,6 +41,7 @@ root.mainloop()
 | language | set the language lexer for the codebox |
 | theme | change the overall color theme for the code syntax |
 | line_numbering | boolean, enable or disable the line numbering |
+| numbering_color | change text color of the line numbering |
 | menu | boolean, enable or disable the right click popup menu |
 | menu_fg_color | color of the menu (optional) |
 | menu_text_color | text color of the menu buttons (optional) |
