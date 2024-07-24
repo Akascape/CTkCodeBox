@@ -66,12 +66,12 @@ root.mainloop()
 
 More lexers available here: https://pygments.org/docs/lexers/
 
-## Styles
+## Color Themes
 ```
 abap, arduino, autumn, borland, colorful, default, dracula, emacs, friendly_grayscale, friendly, fruity, github-dark, gruvbox-dark, gruvbox-light, igor, inkpot, lightbulb, lilypond, lovelace, manni, material, monokai, murphy, native, nord-darker, nord, one-dark, paraiso-dark, paraiso-light, pastie, perldoc, rainbow_dash, rrt, sas, solarized-dark, solarized-light, staroffice, stata-dark, stata-light, tango, trac, vim, vs, xcode, zenburn
 ```
-Style examples given here: https://pygments.org/styles/
+More style examples given here: https://pygments.org/styles/
 
 Follow me for more stuff like this: [`Akascape`](https://github.com/Akascape/)
-### That's all, hope it will help!
+### That's all, hope this project can help!
 
