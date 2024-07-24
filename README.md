@@ -63,7 +63,6 @@ root.mainloop()
 </a>
 
 More lexers available in https://pygments.org/docs/lexers/
-Pass the required lexer accordingly
 
 
 
