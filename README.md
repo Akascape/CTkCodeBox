@@ -50,7 +50,7 @@ root.mainloop()
 | select_color | change the selection color of the codebox |
 | cursor_color | change the cursor color I (blinking) |
 | undo | boolean, enable or disable the undo text feature |
-| _*Other Parameters_ | _All other parameters for ctktextbox can be passed in ctkcodebox_ |
+| _*Other Parameters_ | _All other parameters of ctktextbox can be passed in ctkcodebox_ |
 
 ## Methods
 - **.insert(index, code)**: insert code in the box 
