@@ -31,7 +31,7 @@ class AddLineNums(TkLineNumbers):
         super().__init__(self.master, self.master, justify=justify,
                          colors=(self.master._apply_appearance_mode(self.text_color),
                                  self.master._apply_appearance_mode(self.fg_color)),
-                         relief="flat", **kwargs)
+                         relief="flat", height=self.master.winfo_reqheight(), **kwargs)
         
         padding = self.master.cget("border_width") + self.master.cget("corner_radius")
 
@@ -59,6 +59,7 @@ class CTkCodeBox(customtkinter.CTkTextbox):
     def __init__(self,
                  master,
                  language,
+                 height=200,
                  theme:str="solarized-light",
                  line_numbering:bool=True,
                  numbering_color:str=None,
@@ -72,7 +73,7 @@ class CTkCodeBox(customtkinter.CTkTextbox):
                  cursor_color:str=None,
                  **kwargs):
         
-        super().__init__(master, undo=undo, **kwargs)
+        super().__init__(master, undo=undo, height=height, **kwargs)
         
         if wrap:
             self.configure(wrap="word")
