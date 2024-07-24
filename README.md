@@ -24,8 +24,6 @@ A code editor widget for customtkinter.
 import customtkinter
 from CTkCodeBox import *
 
-customtkinter.set_appearance_mode("light")
-
 root = customtkinter.CTk()
 
 codebox = CTkCodeBox(root, language="python")
